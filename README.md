@@ -12,6 +12,6 @@ Alunos:
 
 => Luís Otávio Da Costa Britto - (Dev Team)
 
-=> Maria Fernanda da Silva Nogueira - (AD/DBA)
+=> Fernanda Moraes Soares - (AD/DBA)
 
-=> Fernanda Moares Soares - (Arquiteto)
+=> Maria Fernanda da Silva Nogueira - (Arquiteto)
