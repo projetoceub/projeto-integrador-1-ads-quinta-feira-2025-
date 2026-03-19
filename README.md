@@ -21,6 +21,12 @@ Este projeto visa profissionalizar o serviço de vans escolares, eliminando o im
 * **Logística:** Rota otimizada automaticamente com base nos "check-outs" dos alunos.
 * **Transparência:** Localização em tempo real para os pais.
 
+## 🛠 Metodologia e Processo
+Utilizamos o framework **Scrum** para a gestão do desenvolvimento, adaptado ao cronograma acadêmico.
+* **Sprints:** Quinzenais.
+* **Papéis:** Definidos conforme a lista de alunos abaixo (PO, SM, Dev Team, AD/DBA, Arquiteto).
+* **Ferramentas:** GitHub Projects para o Backlog e Kanban, e Figma para prototipagem.
+
 ---
 **Curso:** Análise e Desenvolvimento de Sistemas (ADS)
 
