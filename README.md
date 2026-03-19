@@ -12,7 +12,7 @@ Este projeto visa profissionalizar o serviço de vans escolares, eliminando o im
 
 * **`assets/`**: Logotipos, ícones e recursos visuais.
 * **`docs/apresentacao/`**: Contém o **Pitch Deck** com a estratégia de negócio e análise de mercado.
-* **`docs/ux-ui/`**: Documentação de design, incluindo **Mapa de Empatia** e **Jornada do Usuário**.
+* **`docs/ux-ui/`**: Documentação de design, incluindo **Mapa de Empatia** , **Jornada do Usuário** e **PERSONA**.
 * **`prototype/`**: Protótipo navegável em HTML/CSS para validação de interface.
 * **`src/`**: Pasta reservada para o desenvolvimento do código-fonte (Backend/Frontend).
 
