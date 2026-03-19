@@ -35,4 +35,4 @@ Alunos:
 
 => Fernanda Moraes Soares - (AD/DBA)
 
-=> Maria Fernanda da Silva Nogueira - (Arquiteto)
+=> Maria Fernanda da Silva Nogueira - (Arquiteta)
