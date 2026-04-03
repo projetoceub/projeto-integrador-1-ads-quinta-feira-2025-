@@ -1,7 +1,7 @@
 # Documentação Técnica - Vansmind: Sistema de Transporte Escolar Inteligente
 
 ## 1. Visão Geral do Projeto
-**Vansmind** é um sistema mobile (React Native + Expo) para transporte escolar que elimina distrações do motorista e ansiedade dos pais através de:
+
 - Rotas otimizadas com recálculo dinâmico
 - Rastreamento GPS em tempo real via Firebase
 - Check-in/check-out automatizado com geofencing
