@@ -1,5 +1,18 @@
-<<<<<<< HEAD
-# VansMind
+
+
+
+=======
+# Projeto-Integrador-1-ADS-Quinta-Feira-2025-
+--------------------------------------------------------------------------------
+Professora: Kadidja Valeria Reginaldo de Oliveira
+--------------------------------------------------------------------------------
+Turma: B - quinta feira - 1 semestre de 2026
+--------------------------------------------------------------------------------
+**Curso:** Análise e Desenvolvimento de Sistemas (ADS)
+--------------------------------------------------------------------------------
+# 🚐 Projeto Integrador - Gestão Inteligente de Transporte Escolar
+Este projeto visa profissionalizar o serviço de vans escolares, eliminando o improviso e aumentando a segurança viária através da automação da comunicação entre pais e motoristas.
+
 
 Aplicativo móvel para gestão segura de transporte escolar, com foco em:
 
@@ -45,16 +58,6 @@ npm run start
 
 Este é um protótipo.
 
-=======
-# Projeto-Integrador-1-ADS-Quinta-Feira-2025-
---------------------------------------------------------------------------------
-Professora: Kadidja Valeria Reginaldo de Oliveira
---------------------------------------------------------------------------------
-Turma: B - quinta feira - 1 semestre de 2026
---------------------------------------------------------------------------------
-# 🚐 Projeto Integrador - Gestão Inteligente de Transporte Escolar
-
-Este projeto visa profissionalizar o serviço de vans escolares, eliminando o improviso e aumentando a segurança viária através da automação da comunicação entre pais e motoristas.
 
 ## 📂 Estrutura do Repositório
 
@@ -76,7 +79,7 @@ Utilizamos o framework **Scrum** para a gestão do desenvolvimento, adaptado ao 
 * **Ferramentas:** GitHub Projects para o Backlog e Kanban, e Figma para prototipagem.
 
 ---
-**Curso:** Análise e Desenvolvimento de Sistemas (ADS)
+
 
 
 Alunos:
