@@ -111,7 +111,7 @@ Edge-case: ausente → auto após 2min timeout
 ```
 
 ### RF06: Histórico & Relatórios
-- PDF diário: Horários, faltas, km rodados
+- PDF : Horários, faltas, km rodados
 - Analytics: % ocupação, tempo médio/parada
 
 ## 4. Modelagem de Dados (PostgreSQL Schema)
@@ -273,13 +273,5 @@ if GPS_spoofing_detected (speed>80kmh OU jump>500m):
 - Reduced Motion support
 ```
 
-## Próximos Passos Desenvolvimento
 
-1. ✅ **Existente**: RoleSelection + basic Screens + StudentStop type
-2. **Semana 1**: Instalar expo-location, @react-native-mapbox-gl/maps, firebase
-3. **Semana 2**: Backend PostgreSQL + Node.js API rotas
-4. **Semana 3**: Geofencing + recálculo algoritmo
-5. **Semana 4**: Push notifications + testes campo
-
-Esta documentação serve como **blueprint completo** para código + TCC final.
 
