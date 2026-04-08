@@ -63,7 +63,7 @@ Este é um protótipo.
 
 * **`assets/`**: Logotipos, ícones e recursos visuais.
 * **`docs/apresentacao/`**: Contém o **Pitch Deck** com a estratégia de negócio e análise de mercado.
-* **`docs/ux-ui/`**: Documentação de design, incluindo **Mapa de Empatia** , **Jornada do Usuário** e **PERSONA**.
+* **`docs/ux-ui/`**: Documentação de design, incluindo **Mapa de Empatia** ,link para vizualização do prototipo, **Jornada do Usuário** e **PERSONA**.
 * **`prototype/`**: Protótipo navegável em HTML/CSS para validação de interface.
 * **`src/`**: Pasta reservada para o desenvolvimento do código-fonte (Backend/Frontend).
 
@@ -76,7 +76,7 @@ Este é um protótipo.
 Utilizamos o framework **Scrum** para a gestão do desenvolvimento, adaptado ao cronograma acadêmico.
 * **Sprints:** Quinzenais.
 * **Papéis:** Definidos conforme a lista de alunos abaixo (PO, SM, Dev Team, AD/DBA, Arquiteto).
-* **Ferramentas:** GitHub Projects para o Backlog e Kanban, e Figma para prototipagem.
+* **Ferramentas:** GitHub Projects para o Backlog e Kanban, expo go para vizualizar aprototipagem.
 
 ---
 
