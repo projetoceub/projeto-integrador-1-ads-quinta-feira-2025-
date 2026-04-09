@@ -137,12 +137,12 @@ Histórico de Faltas para Cobrança: Motoristas veteranos costumam ter problemas
 
 Alunos:
 
-=> João Lucas Trindade Diniz - (PO)
+=> 22605421 | João Lucas Trindade Diniz - (PO)
 
-=> Cauã Medeiros Alegre - (SM)
+=> 22553411 | Cauã Medeiros Alegre - (SM)
 
-=> Luís Otávio Da Costa Britto - (Dev Team)
+=> 22553336 |  Luís Otávio Da Costa Britto - (Dev Team)
 
-=> Fernanda Moraes Soares - (AD/DBA)
+=> 22504037 | Fernanda Moraes Soares - (AD/DBA)
 
-=> Maria Fernanda da Silva Nogueira - (Arquiteto)
+=> 22503970 | Maria Fernanda da Silva Nogueira - (Arquiteto)
