@@ -134,3 +134,15 @@ Foco no Prejuízo Financeiro: O argumento para esse motorista não é "organiza�
 Segurança como Argumento: Como ele usa o WhatsApp (que ele chama de "zap"), o app pode ser vendido como uma forma de evitar que ele precise ler mensagens enquanto dirige, transformando os avisos de falta em alertas sonoros simples.
 
 Histórico de Faltas para Cobrança: Motoristas veteranos costumam ter problemas com pais que faltam muito e querem desconto. O app pode gerar um relatório de quantas vezes o motorista foi até a porta sem o aluno estar lá, servindo de prova para o cumprimento do contrato.
+
+Alunos:
+
+=> João Lucas Trindade Diniz - (PO)
+
+=> Cauã Medeiros Alegre - (SM)
+
+=> Luís Otávio Da Costa Britto - (Dev Team)
+
+=> Fernanda Moraes Soares - (AD/DBA)
+
+=> Maria Fernanda da Silva Nogueira - (Arquiteto)
