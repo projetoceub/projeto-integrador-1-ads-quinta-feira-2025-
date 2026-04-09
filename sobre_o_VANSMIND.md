@@ -272,6 +272,16 @@ if GPS_spoofing_detected (speed>80kmh OU jump>500m):
 - Vibration patterns distintos
 - Reduced Motion support
 ```
+Alunos:
 
+=> João Lucas Trindade Diniz - (PO)
+
+=> Cauã Medeiros Alegre - (SM)
+
+=> Luís Otávio Da Costa Britto - (Dev Team)
+
+=> Fernanda Moraes Soares - (AD/DBA)
+
+=> Maria Fernanda da Silva Nogueira - (Arquiteto)
 
 
