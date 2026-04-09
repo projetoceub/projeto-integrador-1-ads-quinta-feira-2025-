@@ -1,3 +1,5 @@
+1ª entrevista  
+
 Entrevistador: Cauã (C) | Entrevistado: Lucas (L) – Motorista de Transporte Escolar
 
 C: Lucas, como você organiza a sua lista de alunos? Como sabe quem vai no dia? Você utiliza grupos de WhatsApp?
@@ -47,7 +49,7 @@ Privacidade e Hierarquia: Rejeição total a grupos de pais; a comunicação dev
 Guerra contra a Pirataria: O setor sofre com transportadores clandestinos que "queimam o filme" dos profissionais legalizados.
 
 💡Implementações
-Com base nas dores do Lucas, aqui estão funcionalidades valiosas para o seu trabalho:
+Com base nas dores do Lucas:
 
 Check-in/Check-out Digital: Em vez de "guardar na cabeça", o motorista marca o grupo/escola como concluído.
 
@@ -62,7 +64,7 @@ Gestão por "Clusters" (Grupos): Organizar a visualização do app por escolas/r
 Canal de Transmissão Unilateral: Um chat onde o motorista fala com todos, mas os pais não falam entre si (evitando o "efeito grupo de WhatsApp").
 
 
-
+2ª entrevista
 
 Entrevistador: Cauã (C) | Entrevistado: Motorista Veterano (V) – 35 anos de experiência
 
