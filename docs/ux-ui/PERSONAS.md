@@ -20,4 +20,15 @@ Este documento detalha as personas principais identificadas para o projeto VansM
 
 ---
 *Entrega referente à Unidade 2 - ADS CEUB.*
+Alunos:
+
+=> João Lucas Trindade Diniz - (PO)
+
+=> Cauã Medeiros Alegre - (SM)
+
+=> Luís Otávio Da Costa Britto - (Dev Team)
+
+=> Fernanda Moraes Soares - (AD/DBA)
+
+=> Maria Fernanda da Silva Nogueira - (Arquiteto)
 
